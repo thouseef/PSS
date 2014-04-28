@@ -11,4 +11,4 @@ The dataset used is CB513.
 
 To run this svm, simply invoke using
 
-python PSS.py <path_to_CB513_dataset>
+python PSS.py path_to_CB513_dataset
